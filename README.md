@@ -121,7 +121,7 @@ Point of Sale (POS) with N-Tier Architecture ([**5 Layers**](#solution)). This P
 #### Step - 1 
 Download or Clone
 ```sh
-git clone https://github.com/livealvi/.NET-Point-of-Sale-POS--Csharp
+git clone [https://github.com/livealvi/.NET-Point-of-Sale-POS--Csharp](https://github.com/Daymepro/Inventory-Management-System/)
 ```
 
 #### Step - 2
@@ -262,8 +262,6 @@ Build & Run the project
 
 - Backup Microsoft SQL Database Script or .bak file  Not Include
   <br>
-- 3rd Party .NET UI & Reporting Components Not Include [DevExpress](https://www.devexpress.com/) and [Guna UI2](https://gunaui.com/) Not Include
-
 ### - Thank You.
 
 
